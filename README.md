@@ -137,10 +137,3 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-## Support
-
-If you find this project helpful, consider supporting me:
-
-**Buy Me a Coffee ☕**
-[Support me on Ko-fi](https://ko-fi.com/allanninal)
